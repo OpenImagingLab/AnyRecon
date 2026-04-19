@@ -26,7 +26,7 @@
 </p>
 
 <p align="center" width="100%">
-    <img src="docs/teaser.gif"  width="90%" >
+    <img src="docs/gif.gif"  width="90%" >
 </p>
 
 ## TODO List
