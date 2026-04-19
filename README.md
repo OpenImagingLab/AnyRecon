@@ -2,8 +2,7 @@
     <img src="docs/logo.png"  width="60%" >
 </p>
 
-## <div align="center" >AnyRecon: Arbitrary-View 3D Reconstruction
-with Video Diffusion Model<div align="center">
+<h2 align="center">AnyRecon: Arbitrary-View 3D Reconstruction<br>with Video Diffusion Model</h2>
 
 <div align="center">
   <a href="https://yutian10.github.io">Yutian Chen</a>, 
