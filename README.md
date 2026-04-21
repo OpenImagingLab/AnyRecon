@@ -11,7 +11,7 @@
   <a href="https://scholar.google.com/citations?user=9b5dE40AAAAJ&hl=en">Tianshuo Yang</a>,
   <a href="https://caixin98.github.io/">Xin Cai</a>, 
   <a href="https://luo0207.github.io/yawenluo/">Yawen Luo</a>, 
-  <a href="">Mingxin Yang</a>, 
+  <a href="">Mingxin Yang</a>, <br>
   <a href="https://mulinyu.github.io/">Mulin Yu</a>, 
   <a href="https://eveneveno.github.io/lnxu/">Linning Xu</a>, 
   <a href="https://tianfan.info/">Tianfan Xue</a>
@@ -22,7 +22,7 @@
 <p align="center"> <a href='https://yutian10.github.io/AnyRecon/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
 <a href="https://arxiv.org/abs/2507.05163"><img src="https://img.shields.io/static/v1?label=Arxiv&message=AnyRecon&color=red&logo=arxiv"></a> &nbsp;
  <a href='https://huggingface.co/yutian05/AnyRecon/tree/main'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow'></a> &nbsp;
- <a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Data(comming soon)-orange'></a> &nbsp;
+ <a href=''><img src='https://img.shields.io/badge/YouTube-Video-FF0000?logo=youtube&logoColor=white'></a> &nbsp;
 </p>
 
 <p align="center" width="100%">
@@ -31,7 +31,7 @@
 
 ## TODO List
 
-- [ ] Upload Datasets (Expected before UTC 2025.09.1）
+- [ ] Upload sparse attention weight.
 
 ## 🛠️ Environment Setup
 
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 AnyRecon relies on specific pre-trained weights. Please download them and place them in the `./checkpoints` folder.
 
 - Base Video Diffusion Model
-- AnyRecon LoRA/ControlNet weights [[download](https://huggingface.co/yutian05/AnyRecon/tree/main)]
+- AnyRecon LoRA weights [[download](https://huggingface.co/yutian05/AnyRecon/tree/main)]
 
 ## 🚀 Quick Start
 
@@ -69,14 +69,12 @@ python run_AnyRecon.py \
 ```
 
 ## 💗 Acknowledgments
-Thanks to these great repositories: [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting), [Wan2.1](https://github.com/Wan-Video/Wan2.1) and [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio).
+Thanks to these great repositories: [Wan2.1](https://github.com/Wan-Video/Wan2.1) and [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio).
 
 ## 🔗 Citation
 If you find our work helpful, please cite it:
 ```
-@article{chen20254dslomo,
-    title={4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous Capture},
-    author={Chen, Yutian and Guo, Shi and Yang, Tianshuo and Ding, Lihe and Yu, Xiuyuan and Gu, Jinwei and Xue, Tianfan},
+@article{
     
 }
 ```

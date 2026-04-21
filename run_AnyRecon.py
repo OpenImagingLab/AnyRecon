@@ -5,8 +5,6 @@ from PIL import Image
 import cv2
 import os
 import argparse
-import matplotlib.pyplot as plt
-import math
 import numpy as np
 
 parser = argparse.ArgumentParser(description="Wan Video Pipeline with custom paths")

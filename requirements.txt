@@ -1,0 +1,7 @@
+torch
+diffsynth
+Pillow
+opencv-python
+numpy
+einops
+tqdm

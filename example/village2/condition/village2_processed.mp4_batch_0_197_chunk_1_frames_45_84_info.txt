@@ -1,3 +1,0 @@
-Condition Frame Count: 5
-Render Frame Count: 40
-Condition Frame Indices: [0, 1, 2, 3, 4]
