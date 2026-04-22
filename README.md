@@ -21,7 +21,7 @@
 
 <p align="center"> <a href='https://yutian10.github.io/AnyRecon/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
 <a href="https://arxiv.org/abs/2507.05163"><img src="https://img.shields.io/static/v1?label=Arxiv&message=AnyRecon&color=red&logo=arxiv"></a> &nbsp;
- <a href='https://huggingface.co/yutian05/AnyRecon/tree/main'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow'></a> &nbsp;
+ <a href='https://huggingface.co/Yutian10/AnyRecon/tree/main'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow'></a> &nbsp;
  <a href=''><img src='https://img.shields.io/badge/YouTube-Video-FF0000?logo=youtube&logoColor=white'></a> &nbsp;
 </p>
 
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 AnyRecon relies on specific pre-trained weights. Please download them and place them in the `./checkpoints` folder.
 
 - Base Video Diffusion Model
-- AnyRecon LoRA weights [[download](https://huggingface.co/yutian05/AnyRecon/tree/main)]
+- AnyRecon LoRA weights [[download](https://huggingface.co/Yutian10/AnyRecon/tree/main)]
 
 ## 🚀 Quick Start
 
