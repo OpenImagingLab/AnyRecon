@@ -37,7 +37,7 @@
 
 ###  1. Clone Repository and Setup Environment
 ```bash
-git clone https://github.com/yutian10/AnyRecon.git
+git clone https://github.com/OpenImagingLab/AnyRecon.git
 cd AnyRecon
 conda create -n anyrecon python=3.10 -y
 conda activate anyrecon
