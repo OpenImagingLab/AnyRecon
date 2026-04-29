@@ -74,7 +74,10 @@ Thanks to these great repositories: [Wan2.1](https://github.com/Wan-Video/Wan2.1
 ## 🔗 Citation
 If you find our work helpful, please cite it:
 ```
-@article{
-    
+@article{chen2026anyrecon,
+  title={AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model},
+  author={Chen, Yutian and Guo, Shi and Jin, Renbiao and Yang, Tianshuo and Cai, Xin and Luo, Yawen and Yang, Mingxin and Yu, Mulin and Xu, Linning and Xue, Tianfan},
+  journal={arXiv preprint arXiv:2604.19747},
+  year={2026}
 }
 ```
