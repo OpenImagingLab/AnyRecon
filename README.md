@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ###  2. Download Models
 AnyRecon relies on specific pre-trained weights. Please download them and place them in the `./checkpoints` folder.
 
-- Base Video Diffusion Model(Wan2.1 I2V 14B 720P) [[download](https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-720P/tree/main)]
+- Base Video Diffusion Model (Wan2.1 I2V 14B 720P) [[download](https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-720P/tree/main)]
 - AnyRecon LoRA weights [[download](https://huggingface.co/Yutian10/AnyRecon/tree/main)]
 
 ## 🚀 Quick Start
