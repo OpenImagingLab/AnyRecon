@@ -44,9 +44,7 @@ AnyRecon relies on specific pre-trained weights. Please download them and place 
 
 ## 🚀 Quick Start
 
-### Inference on Provided Example
-
-To reproduce the example reconstruction, run:
+To reproduce the provided example, run:
 
 ```bash
 bash test.sh
