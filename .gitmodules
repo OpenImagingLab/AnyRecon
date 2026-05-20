@@ -1,0 +1,3 @@
+[submodule "Pi3"]
+	path = Pi3
+	url = https://github.com/yyfz/Pi3.git
