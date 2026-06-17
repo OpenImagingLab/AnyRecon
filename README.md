@@ -43,8 +43,7 @@ AnyRecon relies on specific pre-trained weights. Please download them and place 
 - π³ checkpoint (for point-cloud rendering) [[download](https://huggingface.co/yyfz233/Pi3/resolve/main/model.safetensors)] → place at `Pi3/model.safetensors`
 
 ## 🚀 Quick Start
-
-To reproduce the provided example, run:
+For inference, processing an 869x512 video at 40 frames requires approximately 45GB of VRAM, but you can lower the resolution if your VRAM is insufficient. To reproduce the provided example, run:
 
 ```bash
 bash test.sh
