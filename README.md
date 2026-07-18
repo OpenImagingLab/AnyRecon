@@ -4,6 +4,29 @@
 
 <h2 align="center">AnyRecon: Arbitrary-View 3D Reconstruction<br>with Video Diffusion Model</h2>
 
+<div align="center">
+  <a href="https://yutian10.github.io">Yutian Chen</a>, 
+  <a href="https://guoshi28.github.io">Shi Guo</a>, 
+  <a href="https://rbjin.github.io/">Renbiao Jin</a>,
+  <a href="https://scholar.google.com/citations?user=9b5dE40AAAAJ&hl=en">Tianshuo Yang</a>,
+  <a href="https://caixin98.github.io/">Xin Cai</a>, 
+  <a href="https://luo0207.github.io/yawenluo/">Yawen Luo</a>, 
+  <a href="">Mingxin Yang</a>, <br>
+  <a href="https://mulinyu.github.io/">Mulin Yu</a>, 
+  <a href="https://eveneveno.github.io/lnxu/">Linning Xu</a>, 
+  <a href="https://tianfan.info/">Tianfan Xue</a>
+</div>
+<br>
+<p align="center">
+<a href="https://arxiv.org/pdf/2604.19747"><img src="https://img.shields.io/static/v1?label=Arxiv&message=AnyRecon&color=red&logo=arxiv"></a> &nbsp;
+<a href="https://yutian10.github.io/AnyRecon/" target="_blank">
+  <img src="https://img.shields.io/badge/Project%20Page-Website-3273dc?logo=googlechrome&logoColor=white">
+</a> &nbsp;
+ <a href='https://huggingface.co/Yutian10/AnyRecon'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow'></a> &nbsp;
+ <a href='https://youtu.be/sfgFZKCdofs'><img src='https://img.shields.io/badge/YouTube-Video-FF0000?logo=youtube&logoColor=white'></a> &nbsp;
+</p>
+
+<h3 align="center"> SIGGRAPH Asia 2026 </h3>
 <br>
 <p align="center">
     <b>Your star means a lot for us to develop this project! ✨</b>
